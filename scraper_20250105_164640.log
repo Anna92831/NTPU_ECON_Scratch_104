@@ -1,0 +1,4 @@
+2025-01-05 16:46:40,213 - INFO - Fetching data for 台北市 - 儲備幹部
+2025-01-05 16:46:40,214 - INFO - Fetching page 1 for job_code 2001001002 (儲備幹部) in city_code 6001001000...
+2025-01-05 16:47:03,392 - ERROR - Request failed for URL: https://www.104.com.tw/company/ajax/content/d97eiy0 with params: None. Error: HTTPSConnectionPool(host='www.104.com.tw', port=443): Max retries exceeded with url: /company/ajax/content/d97eiy0 (Caused by ResponseError('too many 429 error responses'))
+2025-01-05 16:47:03,394 - INFO - Retrying in 3.55 seconds... (Attempt 1/5)

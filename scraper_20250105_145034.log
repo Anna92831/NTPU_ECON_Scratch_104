@@ -1,0 +1,8 @@
+2025-01-05 14:50:34,278 - INFO - Fetching data for 台北市 - 儲備幹部
+2025-01-05 14:50:34,279 - INFO - Fetching page 1 for job_code 2001001002 (儲備幹部) in city_code 6001001000...
+2025-01-05 14:54:31,306 - INFO - Total jobs fetched for job_code 8kuqs (儲備幹部): 39
+2025-01-05 14:54:58,661 - INFO - Fetching data for 台北市 - 經營管理主管
+2025-01-05 14:54:58,662 - INFO - Fetching page 1 for job_code 2001001001 (經營管理主管) in city_code 6001001000...
+2025-01-05 14:58:47,554 - INFO - Total jobs fetched for job_code 8i441 (經營管理主管): 30
+2025-01-05 14:59:11,306 - INFO - Successfully saved data to ./job_104_data_台北市_20250105_1459.csv
+2025-01-05 14:59:11,345 - ERROR - Error saving to MySQL: 'Engine' object has no attribute 'cursor'

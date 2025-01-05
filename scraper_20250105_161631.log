@@ -1,0 +1,59 @@
+2025-01-05 16:16:31,528 - INFO - Fetching data for 台北市 - 儲備幹部
+2025-01-05 16:16:31,529 - INFO - Fetching page 1 for job_code 2001001002 (儲備幹部) in city_code 6001001000...
+2025-01-05 16:16:41,283 - INFO - Total jobs fetched for job_code 8kuqs (儲備幹部): 39
+2025-01-05 16:17:03,663 - INFO - jobType                 object
+jobNo                   object
+jobName                 object
+jobNameSnippet          object
+jobRole                 object
+jobRo                   object
+jobAddrNo               object
+jobAddrNoDesc           object
+jobAddress              object
+description             object
+descWithoutHighlight    object
+optionEdu               object
+period                  object
+periodDesc              object
+applyCnt                object
+applyType                int64
+applyDesc               object
+custNo                  object
+custName                object
+coIndustry              object
+coIndustryDesc          object
+salaryLow               object
+salaryHigh              object
+salaryDesc              object
+s10                     object
+appearDate              object
+appearDateDesc          object
+optionZone              object
+isApply                 object
+applyDate               object
+isSave                  object
+descSnippet             object
+tags                    object
+landmark                object
+link                    object
+jobsource               object
+jobNameRaw              object
+custNameRaw             object
+lon                     object
+lat                     object
+remoteWorkType           int64
+major                   object
+salaryType              object
+dist                    object
+mrt                     object
+mrtDesc                 object
+JobCat                  object
+code                    object
+condition               object
+jobCategory             object
+company_employees       object
+company_capital         object
+dtype: object
+2025-01-05 16:17:03,672 - INFO - mysql+pymysql://root:qp8%3DFLgIcgGH%7CH%29B@localhost:3306/airflow
+2025-01-05 16:17:03,787 - ERROR - Database connection failed: 0
+2025-01-05 16:17:03,811 - ERROR - Error saving to MySQL: 0

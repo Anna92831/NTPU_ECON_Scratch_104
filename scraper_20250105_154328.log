@@ -1,0 +1,6 @@
+2025-01-05 15:43:28,798 - INFO - Fetching data for 台北市 - 儲備幹部
+2025-01-05 15:43:28,798 - INFO - Fetching page 1 for job_code 2001001002 (儲備幹部) in city_code 6001001000...
+2025-01-05 15:44:47,530 - INFO - Total jobs fetched for job_code 819lp (儲備幹部): 39
+2025-01-05 15:45:08,911 - INFO - Fetching data for 台北市 - 經營管理主管
+2025-01-05 15:45:08,912 - INFO - Fetching page 1 for job_code 2001001001 (經營管理主管) in city_code 6001001000...
+2025-01-05 15:46:07,641 - INFO - Total jobs fetched for job_code 85uyl (經營管理主管): 30
