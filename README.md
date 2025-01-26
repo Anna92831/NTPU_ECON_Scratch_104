@@ -17,7 +17,6 @@
 - 必需套件：
   - `requests`
   - `pandas`
-  - `pymysql`
   - `sqlalchemy`
 
 安裝依賴：
